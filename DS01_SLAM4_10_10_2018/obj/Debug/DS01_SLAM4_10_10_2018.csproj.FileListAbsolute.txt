@@ -1,0 +1,7 @@
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\bin\Debug\DS01_SLAM4_10_10_2018.exe.config
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\bin\Debug\DS01_SLAM4_10_10_2018.exe
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\bin\Debug\DS01_SLAM4_10_10_2018.pdb
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\obj\Debug\DS01_SLAM4_10_10_2018.csprojResolveAssemblyReference.cache
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\obj\Debug\DS01_SLAM4_10_10_2018.csproj.CoreCompileInputs.cache
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\obj\Debug\DS01_SLAM4_10_10_2018.exe
+C:\Users\clement\Desktop\doc_wi\BTS\SLAM_4\DS01_SLAM4_10_10_2018\DS01_SLAM4_10_10_2018\obj\Debug\DS01_SLAM4_10_10_2018.pdb
